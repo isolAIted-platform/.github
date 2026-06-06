@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the path below with your actual logo URL once uploaded to the repo -->
-  <img src=".github/logo-isolaited.png" alt="isolAIted Logo" width="200"/>
+  <img src="logo-isolaited.png" alt="isolAIted Logo" width="200"/>
 </p>
 
 <p align="center">
