@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="https://isolaited.com">Official Website</a> | 
-  <a href="https://isolaited.com">Documentation</a> | 
-  <a href="https://isolaited.com">Contact Us</a>
+  <a href="https://www.isolaited.com/en/docs/">Documentation</a> | 
+  <a href="https://www.isolaited.com/en/contact/">Contact Us</a>
 </p>
 
 ---
@@ -52,5 +52,5 @@ Ideal for sectors requiring high security:
 
 Developed by Virtualway (BU AI).
 
-* [Download Free](https://isolaited.com)
-* [Talk to an Expert](https://isolaited.com)
+* [Download Free](https://www.isolaited.com/en/download/)
+* [Talk to an Expert](https://www.isolaited.com/en/contact/)
