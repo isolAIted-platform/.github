@@ -1,4 +1,4 @@
-# isolAIted - The artificial intelligence you truly own.
+<h1 align="center">isolAIted - The artificial intelligence you truly own.</h1>
 
 <p align="center">
   <!-- Replace the path below with your actual logo URL once uploaded to the repo -->
